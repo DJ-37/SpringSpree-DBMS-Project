@@ -34,6 +34,6 @@
 *	Each day of the festival has two proshows by performers. These are also managed by organizers from the fest team.
 
 ## ER Diagram and Relationship Schema
-![ERD_RS_Final](https://github.com/user-attachments/assets/2d6153fb-4084-49eb-af77-3fda4f0be5a9)
+![ERD_RS_Final](https://github.com/user-attachments/assets/12897f75-848a-4f96-9f97-39fd83bfa558)
 
 ### For further details or to contact, please refer the database specification document in the repository
